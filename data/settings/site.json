@@ -1,0 +1,18 @@
+{
+  "domain": "istanbulkusadasievdenevenakliyat.com",
+  "siteName": "İstanbul Kuşadası Evden Eve Nakliyat",
+  "siteTitle": "İstanbul Kuşadası Evden Eve Nakliyat | Profesyonel Taşımacılık",
+  "description": "İstanbul Kuşadası evden eve nakliyat hizmetinde asansörlü kurulum, demonte-monte ve beyaz eşya bağlantı kontrolü sunar; fiyat kalemlerini şeffaf yazarız.",
+  "author": "İstanbul Kuşadası Evden Eve Nakliyat",
+  "logoLight": "/logo-beyaz.svg",
+  "logoDark": "/logo-koyu.svg",
+  "favicon": "/favicon.ico",
+  "language": "tr",
+  "currency": "TRY",
+  "timezone": "Europe/Istanbul",
+  "social": {
+    "twitter": "@istanbulizmir",
+    "facebook": "https://facebook.com/",
+    "instagram": "https://instagram.com/"
+  }
+}

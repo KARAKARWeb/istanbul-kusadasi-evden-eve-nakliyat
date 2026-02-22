@@ -1,0 +1,65 @@
+{
+  "reviews": [
+    {
+      "id": "rev-home-001",
+      "author": "Zeynep Aydın",
+      "rating": 5,
+      "date": "2026-02-15",
+      "text": "Kuşadası taşınmamızda ücretsiz ekspertiz ekibi geldi, eşya hacmini milimetrik ölçtü. Paketleme aşamasında çift kat streç film, köşe kartonu ve hava kabarcıklı naylon kullanıldı. Asansörlü taşıma sırasında vinç operatörü son derece deneyimliydi, mobilyalar çizilmeden indirildi. Varışta beyaz eşya montajı yapıldı, buzdolabı bağlantısı test edildi, gardırop kurulumu eksiksiz tamamlandı. Sigorta poliçesi detaylı açıklandı, teslim tutanağı düzenlendi. Böyle profesyonel bir hizmet beklemiyordum, gerçekten mükemmeldi.",
+      "verified": true,
+      "region": "İstanbul - Kuşadası"
+    },
+    {
+      "id": "rev-home-002",
+      "author": "Mehmet Korkmaz",
+      "rating": 4.9,
+      "date": "2026-02-12",
+      "text": "Sözleşmeli nakliyat hizmeti aldık, tarih ve ücret yazılı olarak belirlendi. Koli sistemi numaralıydı, her kutu hangi odaya ait etiketlenmişti. Rota planlaması önceden yapılmış, mola noktaları belirlenmiş, sürücü deneyimliydi. Araç içinde kaymaz zemin döşenmişti, mobilyalar kayışla sıkıca bağlanmıştı. Hamallık bedeli baştan netleştirildi, park izni alındı, bina yönetimi bilgilendirildi. Taşınma günü hiç stres yaşamadık, ekip son derece koordineli çalıştı. Kesinlikle tavsiye ederim.",
+      "verified": true,
+      "region": "İstanbul - Kuşadası"
+    },
+    {
+      "id": "rev-home-003",
+      "author": "Ayşe Demir",
+      "rating": 5,
+      "date": "2026-02-08",
+      "text": "Metreküp hesabı titizlikle yapıldı, kat bilgisi kaydedildi, merdiven genişliği ölçüldü. Kırılgan eşyalar için özel ambalaj malzemesi kullanıldı, cam eşyalar ayrı paketlendi. Rulo ambalaj ile koltuk takımı korundu, köşe koruyucular takıldı, streç film katları artırıldı. Vinç kurulumu güvenli yapıldı, yükleme dengeli gerçekleştirildi, ağırlık dağılımı kontrol edildi. Varışta koli dağılımı odalara göre düzenlendi, arama derdi kalmadı. Montaj ekibi yatak odasını, mutfağı ve salonu eksiksiz kurdu. Harika bir deneyimdi.",
+      "verified": true,
+      "region": "İstanbul - Kuşadası"
+    },
+    {
+      "id": "rev-home-004",
+      "author": "Hasan Yılmaz",
+      "rating": 5,
+      "date": "2026-02-05",
+      "text": "Firma referanslarını kontrol ettik, geçmiş müşteri yorumlarını okuduk, sigorta belgesini inceledik. Keşif randevusu ücretsizdi, uzman kadro evinize geldi, detaylı bilgi verdi. Sözleşme maddelerini birlikte okuduk, ödeme koşulları netleştirildi, gizli maliyet yoktu. Taşıma günü ekip zamanında geldi, paketleme sistematik yapıldı, her aşama planlandı. Araç filosu moderndi, GPS takipli araç kullanıldı, rota canlı paylaşıldı. Teslim sonrası beyaz eşya garantileri kontrol edildi, faturalar düzenlendi. Müşteri memnuniyeti odaklı çalışma prensibi her aşamada hissedildi.",
+      "verified": true,
+      "region": "İstanbul - Kuşadası"
+    },
+    {
+      "id": "rev-home-005",
+      "author": "Fatma Özkan",
+      "rating": 4.9,
+      "date": "2026-02-01",
+      "text": "Ekonomik paket seçtik ama hizmet kalitesi premium seviyedeydi. Ambalaj malzemeleri eksiksizdi, koli, streç, karton köşelik, hava kabarcıklı naylon temin edildi. Parçalama tekniği uygulandı, merdiven dönemeçleri dar olmasına rağmen mobilyalar geçirildi. Asansör montajı profesyonelce yapıldı, vinç operatörü sertifikalıydı, güvenlik önlemleri alındı. Varışta dolap kurulumu hızlı tamamlandı, çekmeceler yerleştirildi, kapaklar ayarlandı. Teslim tutanağında koli sayısı, eşya durumu, hasar kaydı detaylı işlendi. Fiyat performans dengesi mükemmeldi.",
+      "verified": true,
+      "region": "İstanbul - Kuşadası"
+    },
+    {
+      "id": "rev-home-006",
+      "author": "Ali Çelik",
+      "rating": 5,
+      "date": "2026-01-28",
+      "text": "Güzergah planlaması detaylıydı, dinlenme durakları önceden belirlenmişti, yol durumu takip edildi. Araç yükleme esnasında ağırlık dengesi sağlandı, mobilyalar katmanlı yerleştirildi, boşluklar dolduruldu. Sigorta kapsamı geniş tutuldu, hasar maddeleri kapsandı, tazminat süreci açıklandı. Bağlantı kontrolü yapıldı, bulaşık makinesi test edildi, çamaşır makinesi denendi, klima montajı gerçekleştirildi. Ekip tecrübesi yüksekti, iletişim sürekli açıktı, sorularımız anında yanıtlandı. Zamanında teslimat garantisi verildi ve tutuldu. Taşınma stresi sıfırdı, her şey kusursuzdu.",
+      "verified": true,
+      "region": "İstanbul - Kuşadası"
+    }
+  ],
+  "aggregateRating": {
+    "ratingValue": 4.97,
+    "reviewCount": 6,
+    "bestRating": 5,
+    "worstRating": 1
+  },
+  "lastUpdated": "2026-02-22T17:19:54.591Z"
+}

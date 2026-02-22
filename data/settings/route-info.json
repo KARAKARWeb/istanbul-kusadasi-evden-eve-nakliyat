@@ -1,0 +1,14 @@
+{
+  "title": "İstanbul Kuşadası Rota Bilgileri",
+  "description": "Haritadaki rota, İstanbul çıkışını ve Kuşadası varışını gösterir; trafik durumuna göre ortalama sürüş süresini ve mola planını bu veriye göre netleştiriyoruz.\n",
+  "originCoords": "KOZCUOĞLU Eşya Depolama ve Nakliyat Hizmetleri",
+  "destinationCoords": "Kuşadası",
+  "fromCity": "İstanbul",
+  "toCity": "Kuşadası",
+  "distance": 538,
+  "duration": 6,
+  "basePrice": 1500,
+  "sourceCity": "İstanbul",
+  "targetCity": "Kuşadası",
+  "priceMin": 14200
+}

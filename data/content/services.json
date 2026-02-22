@@ -1,0 +1,31 @@
+{
+  "title": "Hizmetlerimiz",
+  "description": "<p>Taşıma ihtiyaçlarınıza göre paketleme, sözleşme, sigorta ve asansörlü kurulum seçeneklerini aynı ekip disiplininde, tek planla netleştirip titizlikle birleştiriyoruz.</p>",
+  "services": [
+    {
+      "title": "Evden Eve Nakliyat",
+      "description": "<p>Planlı paketleme, numaralı koliler ve güvenli teslim akışı kuruyoruz.</p>"
+    },
+    {
+      "title": "Sözleşmeli Evden Eve Nakliyat",
+      "description": "<p>Tarih, ücret ve iş kapsamı yazılı sözleşmede açıkça netleşir.</p>"
+    },
+    {
+      "title": "Sigortalı Evden Eve Nakliyat",
+      "description": "<p>Sigorta poliçesiyle olası zararları resmi güvenceye hızlıca alırız.</p>"
+    },
+    {
+      "title": "Asansörlü Evden Eve Nakliyat",
+      "description": "<p>Dış cephe asansörüyle hızlı indirme ve hasarsız çıkarma sağlarız.</p>"
+    },
+    {
+      "title": "Ofis Taşımacılığı",
+      "description": "<p>Arşiv ve cihazları etiketler, operasyonu planlı biçimde kesintisiz taşırız.</p>"
+    },
+    {
+      "title": "Eşya Depolama",
+      "description": "<p>Nem takibi yapılan alanda kilitli, düzenli eşya depolama sunarız.</p>"
+    }
+  ],
+  "footer": "<p>Her işte önce keşif yapar, hamallık bedeli ve malzeme ihtiyacını kalem kalem çıkarırız. Rulo ambalaj, köşe koruyucu ve battaniye kaplama sahaya eksiksiz iner. Şehiriçi evden eve nakliyat ile başlayan süreç, şehirlerarası evden eve nakliyat etaplarında bile aynı kontrol listesiyle ilerler; araç içi sabitleme kayışları da rutinin vazgeçilmez parçasıdır.</p>"
+}
